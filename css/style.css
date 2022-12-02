@@ -1,0 +1,57 @@
+body{
+	font-size: 14px;
+	font-family: "open-sans";
+}
+header{
+	background-color: #000;
+	position: relative;
+	width: 100%;
+	padding: 10px 0;
+}
+
+#features h1{
+	text-align: center;
+
+}
+#features p{
+	text-align: center;
+}
+#hero {
+	background-image: url( "../img/bg-hero.jpg");
+	background-position:center;
+	background-size: cover;
+	padding: 10% 0;
+
+}
+.btn-naranja{
+	background-color:#C55E18;
+	color:#fff;
+	padding:15px 35px;
+	font-weight: 400;
+	letter-spacing: 3px;
+	padding-left: 90px;
+}
+#hero h1{
+color: #fff;
+	font-family: "open-sans";
+	padding-left: 90px;
+}
+#hero h2{
+color: #fff;
+	font-family: "open-sans";
+	padding-left: 90px;
+}
+#hero h3{
+color: #fff;
+	font-family: "open-sans";
+	padding-left: 90px;
+}
+#hero h4{
+color: #fff;
+	font-family: "open-sans";
+	padding-left: 90px;
+}
+footer{
+	background-color:  #191919;
+}
+
